@@ -1,3 +1,4 @@
+Brave New World Interview task - Josh d'Entremont
 three.js-camera-path-tool
 =========================
 
@@ -25,3 +26,5 @@ OPTION + UP/DOWN  Translate Node on Z Axis
 W/A/S/D  Rotate Node
 
 SHIFT  Moves Faster
+
+n Continue after the process stops from being in a sphere 
